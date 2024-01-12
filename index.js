@@ -1,4 +1,4 @@
-    const apiKey = '215bffcf47c5f43ac8e2c56f5af286d9';
+    const apiKey = ''//add your api key here
     const searchInput = document.querySelector('input');
     const movieName = document.getElementById('nameofmovie');
     const imdbElement = document.getElementById('imdb');
